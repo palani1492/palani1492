@@ -14,7 +14,7 @@ Final-year M.Tech (Computer Science) student at VIT Chennai. Based in Chennai, m
 
 - **Artha**: a research assistant for Indian equities that answers only from cited sources and says "I don't have that in the ingested data" when the evidence is missing. Next.js, FastAPI, LangGraph, pgvector, AWS.
 - **Maths gap finder** (VIT Chennai research): traces a wrong answer back to the misconception behind it, using a prerequisite knowledge graph. Ranking quality (MAP@25) went from 0.326 to 0.465.
-- **[RightNow India](https://github.com/palani1492/rightnow-india)** (OpenAI hackathon, [live demo](https://rightnow-india-eno1.vercel.app)): a prototype that finds public services by life event, with consent and review before any action.
+- **[RightNow India](https://github.com/palani1492/rightnow-india)** (OpenAI hackathon): a prototype that finds public services by life event, with consent and review before any action.
 
 ### How I work
 
